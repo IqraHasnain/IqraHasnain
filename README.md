@@ -46,13 +46,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IqraHasnain&show_icons=true&theme=neutral&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraHasnain&layout=compact&theme=neutral&hide_border=true" height="150"/>
-</p>
-
+- 🔭 Building data projects with Python, SQL & Excel
+- 🌱 Learning Machine Learning
+- 👯 Open to internships and junior data analyst roles
+- 📫 Reach me at: your-email@gmail.com
+  
 ---
 
 ## 📫 Let's Connect
