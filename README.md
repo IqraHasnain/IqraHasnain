@@ -51,7 +51,7 @@
 - 🔭 Building data projects with Python, SQL & Excel
 - 🌱 Learning Machine Learning
 - 👯 Open to internships and junior data analyst roles
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at: iqrahasnain137@gmail.com
   
 ---
 
