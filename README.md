@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -43,6 +44,15 @@
 - Key finding: 9–10 AM peak hours, Barista Espresso = #1 product at $91K in sales
 - Includes dynamic slicers for filtering by month and day
 - **Tools:** Microsoft Excel, Pivot Tables, Pivot Charts
+
+---
+
+### 🌍 [World Happiness Analysis — EDA + Statistics](https://github.com/IqraHasnain/World-Happiness-Analysis)
+> Statistical analysis of global happiness across 147–158 countries from 2015–2022.
+- Correlation of 0.78 between GDP and happiness — strongest predictor identified
+- T-test confirmed statistically significant happiness gap between Western Europe and Sub-Saharan Africa (t-stat = 13.37)
+- Nordic countries (Iceland & Denmark) dominated top 5 rankings across all 7 valid years
+- **Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn | SciPy
 
 ---
 
