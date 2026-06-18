@@ -6,7 +6,7 @@
 
 <p align="center">
   I enjoy working with data, cleaning messy datasets, and turning numbers into clear insights.
-  I'm currently building projects using Python, SQL, and Excel to sharpen my data skills and land my first data role.
+  I build projects using Python, SQL, Excel, and statistical analysis to sharpen my data skills and land my first data role.
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
 ## 📈 Currently
 
-- 🔭 Building data projects with Python, SQL & Excel
+- 🛠️ Building data projects with Python, SQL, Excel & Statistics
 - 🌱 Learning Machine Learning
 - 👯 Open to internships and junior data analyst roles
 - 📫 Reach me at: iqrahasnain137@gmail.com
