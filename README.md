@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -53,6 +54,17 @@
 - T-test confirmed statistically significant happiness gap between Western Europe and Sub-Saharan Africa (t-stat = 13.37)
 - Nordic countries (Iceland & Denmark) dominated top 5 rankings across all 7 valid years
 - **Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn | SciPy
+
+---
+
+### 🚗 [Car Price Prediction — Machine Learning + Regression](https://github.com/IqraHasnain/Car-Price-Prediction-ML)
+
+> End-to-end Machine Learning project exploring car pricing data using feature engineering, statistical feature selection, and Linear Regression.
+
+* All numeric features showed near-zero Pearson correlations with `Price` (all below 0.05)
+* Built and evaluated a Linear Regression model on 2,500 records, achieving a test R² of **-0.00199**
+* Used Chi-square testing, residual analysis, MSE, R², and Adjusted R² to identify and explain model underfitting
+* **Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Jupyter Notebook
 
 ---
 
